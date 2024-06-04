@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace Menu
@@ -24,7 +24,7 @@ namespace Menu
             Console.Clear();
             Console.SetCursorPosition(0, 0);
 
-            // Draw the menu names horizontally
+            
             for (int i = 0; i < menus.Count; i++)
             {
                 if (i == currentMenuIndex)
@@ -37,7 +37,7 @@ namespace Menu
                 Console.ResetColor();
             }
 
-            // Draw the selected submenu items vertically
+            
             int columna = currentMenuIndex * 20;
             int fila = 3;
             for (int j = 0; j < menus[currentMenuIndex].items.Length; j++)
@@ -65,11 +65,11 @@ namespace Menu
                 {
                     case ConsoleKey.RightArrow:
                         currentMenuIndex = (currentMenuIndex + 1) % menus.Count;
-                        currentItemIndex = 0; // Reset item index when changing menu
+                        currentItemIndex = 0; 
                         break;
                     case ConsoleKey.LeftArrow:
                         currentMenuIndex = (currentMenuIndex - 1 + menus.Count) % menus.Count;
-                        currentItemIndex = 0; // Reset item index when changing menu
+                        currentItemIndex = 0; 
                         break;
                     case ConsoleKey.DownArrow:
                         currentItemIndex = (currentItemIndex + 1) % menus[currentMenuIndex].items.Length;
@@ -92,7 +92,7 @@ namespace Menu
             string selectedItem = menus[currentMenuIndex].items[currentItemIndex];
             Console.Clear();
             Console.WriteLine($"Has seleccionado: {selectedItem}");
-            Console.WriteLine("Presiona cualquier tecla para volver al menú...");
+            Console.WriteLine("Presiona cualquier tecla para volver al menu...");
             Console.ReadKey();
         }
     }
