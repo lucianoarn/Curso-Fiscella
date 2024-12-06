@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\Curso-Fiscella\\ejer obligatorios\\ej01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7995D96B-F4D7-4269-9E63-BDB98BBD7E26}|ej01\\ej01.csproj|c:\\xampp\\htdocs\\curso-fiscella\\ejer obligatorios\\ej01\\ej01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7995D96B-F4D7-4269-9E63-BDB98BBD7E26}|ej01\\ej01.csproj|solutionrelative:ej01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Curso-Fiscella\\ejer obligatorios\\ej01\\ej01\\Program.cs",
+              "RelativeDocumentMoniker": "ej01\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Curso-Fiscella\\ejer obligatorios\\ej01\\ej01\\Program.cs",
+              "RelativeToolTip": "ej01\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:56:26.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ejer obligatorios\ej01\ej01\bin\Debug\ej01.exe.config
+C:\Users\Administrator\source\repos\ejer obligatorios\ej01\ej01\bin\Debug\ej01.exe
+C:\Users\Administrator\source\repos\ejer obligatorios\ej01\ej01\bin\Debug\ej01.pdb
+C:\Users\Administrator\source\repos\ejer obligatorios\ej01\ej01\obj\Debug\ej01.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ejer obligatorios\ej01\ej01\obj\Debug\ej01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ejer obligatorios\ej01\ej01\obj\Debug\ej01.exe
+C:\Users\Administrator\source\repos\ejer obligatorios\ej01\ej01\obj\Debug\ej01.pdb
